@@ -11,7 +11,8 @@ I'm currently exploring:
 - Data analytics and visualization
 - Search and optimization algorithms
 
-![Pavithra's GitHub stats]](https://github-readme-stats.vercel.app/api?username=paviz26a&show_icons=true&theme=synthwave)
+![Pavithra's GitHub stats](https://github-readme-stats.vercel.app/api?username=paviz26&show_icons=true&theme=tokyonight)
+
 
 
 
