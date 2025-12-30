@@ -11,8 +11,6 @@ I'm currently exploring:
 - Data analytics and visualization
 - Search and optimization algorithms
 
-![Pavithra's GitHub stats](https://github-readme-stats.vercel.app/api?username=paviz26&show_icons=true&theme=tokyonight)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pavithra-s-ab7b60315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paviz2601@gmail.com) 
 
